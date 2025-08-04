@@ -1,6 +1,8 @@
 
 Open terminal.
 Run common Git commands
+
+
 git init
 git add .
 git commit -m "Initial commit"
